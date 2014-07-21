@@ -270,7 +270,7 @@ exports.rethrow = function rethrow(err, filename, lineno){
 
 })({});
 
-;require.register("scripts/app", function(exports, require, module) {
+require.register("scripts/app", function(exports, require, module) {
 
 });
 
